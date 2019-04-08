@@ -21,6 +21,7 @@ HTML CSS Bootstrap JavaScript jQuery Git
 
 # Live Demo
 
+
 ## Specifications
 
 Pig Dice is a two player game each click in name
@@ -42,13 +43,13 @@ Example Output: end of turn
 Adds turn total to given player's total score.
 
 Example Input: Player1 total score => 100
-Example Output: "Player one wins!"
+Example Output: "Player two wins!"
 
 
 ## Known Bugs
 There are no known bugs at this time.
 
-Support and contact details
+ ## Support and contact details
 For help, contact:
 zackmatere@gmail.com
 
