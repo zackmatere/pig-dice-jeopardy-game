@@ -7,7 +7,7 @@ If a player chooses to "hold" "end turn", their turn total is added to their sco
 
 ## Setup/Installation Requirements
 Clone this repository at:[pig dice jeopardy]
-(https://github.com/zackmatere/pig-dice-jeopardy-game.git)
+(https://zackmatere.github.io/pig-dice-jeopardy-game/)
 Move into the project folder
 Open index.html in the browser of your choice
 ### prerequisite
